@@ -60,7 +60,7 @@ The Python script also automatically resized each image to 100x100 pixels, conve
 
 [3] Mahdi Rezaei. 2016. Software Program: objectmarker.exe - utility for manually drawing regions of interest. Available from: https://www.cs.auckland.ac.nz/~m.rezaei/Tutorials/Haar-Training.zip.
  
-[4] Kai Li Li Fei-Fei, Olga Russakovsky, Jonathan Krause, Jia Deng, Alex Berg. ImageNet: an image dataset. 2017. Retrieved from: http://image-net.org/.
+[4] Li Fei-Fei, Kai Li, Olga Russakovsky, Jonathan Krause, Jia Deng, and Alex Berg. ImageNet: an image dataset. 2017. Retrieved 4 July 2017 from: http://image-net.org/.
 
 [5] E. Borenstein and S. Ullman, 2002. The Weizmann Horse Database.
 
